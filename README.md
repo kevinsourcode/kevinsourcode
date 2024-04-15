@@ -1,1 +1,10 @@
-<h1 align="center"> 'Sup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kevin Roy.</h1>
+const kevin = {
+  pronouns: "he" | "him",
+  role: "Full Stack Engineer",
+  code: ["Javascript", "Typescript", "Python"],
+  frameworks: ["React.JS", "Next.JS" "Redux", "FastAPI"],
+  links: {
+    website: "https://kevnroy.com",
+    twitter: "https://twitter.com/kevn_gg",
+  }
+};
