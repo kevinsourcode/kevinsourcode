@@ -1,3 +1,3 @@
 ```
-yeah.. i can't be bothered to make a "beautiful" github profile. I keep my head down and build. :) 
+true knowledge is discovery. try it. build it. fail at it. try again. :) 
 ```
